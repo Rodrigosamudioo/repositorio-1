@@ -12,7 +12,7 @@ public class practica2ejercicio1 {
         System.out.print("Digite el ingreso anual: ");
         ingreso = scanner.nextFloat();
         if (ingreso > irp) {
-            System.out.print("Debe abonar IRP el siguiente año");
+            System.out.print("Debe abonar IRP el siguiente año: ");
 
             
         } else {
